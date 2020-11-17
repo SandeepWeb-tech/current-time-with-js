@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: Papyrus;
+    margin: 0;
+    background-color:#99f3bd;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.jumbotron{
+  padding: 150px;
+  box-shadow: 0 0 5px 5px;
+  background-color: #132743;
+}
+.showtime{
+       display: flex;
+   font-size: 2.1rem;
+   color: wheat;
+}
+#time{
+    margin-left: 30px;
+font-family: Papyrus;
+}
+.menu{
+    text-align: center;
+    color: wheat;
+}
